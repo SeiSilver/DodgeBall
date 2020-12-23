@@ -1,7 +1,5 @@
 # DodgeBall
 
-# Foobar
-
 This game code using Unity and C# 
 
 ## Installation
